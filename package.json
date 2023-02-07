@@ -1,0 +1,16 @@
+{
+  "name": "day2challenge3",
+  "version": "1.0.0",
+  "description": "learn yargs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0",
+    "yargs": "^17.6.2"
+  }
+}
